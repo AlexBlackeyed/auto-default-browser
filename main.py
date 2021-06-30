@@ -1,6 +1,5 @@
 import pyautogui 
 from time import sleep
-
 pyautogui.press("win")
 sleep(.1)
 pyautogui.typewrite("defaul")
